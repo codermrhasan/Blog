@@ -1,4 +1,4 @@
-# Linux at a glance 
+# Intro  
 
 Do you know what happen when you visit a website in your browser? How do the page shown up? Basically when you type and enter a link in your browser, your browser send request to the **server** of that specific website. Then that **server** return the requested page and you can watch it. So what is **server**? Simply a **server** is nothing but a computer which is connected to the web and it is always on because of response with our request. Maximum number of server computer linux os. So It's important to understand it.
 
