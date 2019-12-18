@@ -7,4 +7,4 @@ Software development at a glance. The main purpose of this repo is review a topi
 ## Index
 
 **DevOps and Deployments**
-- [Linux web servers at a glance](linux-web-servers-at-a-glance)
+- [Linux for web servers at a glance](linux-for-web-servers-at-a-glance)
